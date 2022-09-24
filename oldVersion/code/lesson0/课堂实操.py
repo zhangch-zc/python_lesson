@@ -1,0 +1,5 @@
+print("I'm ok")
+print("拓想机器人最牛")
+print(10 // 3)
+print(10 / 3)
+print(10 % 3)

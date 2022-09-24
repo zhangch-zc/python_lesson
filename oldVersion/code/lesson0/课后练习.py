@@ -1,0 +1,6 @@
+name = input("你的姓名是：")
+print(name)
+age = input("你的年龄是：")
+print(age)
+habby = input("你的爱好是：")
+print(habby)
